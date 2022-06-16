@@ -30,6 +30,7 @@ body {
 
 .project {
     background: url(bg-mobile.png)center/cover fixed no-repeat;
+    min-height: 100vh;
 }
 
 .project-center {
@@ -189,7 +190,7 @@ strong {
 
     .project {
         background: url(bg-desktop.png);
-        height: 340px;
+        min-height: 340px;
     }
 
     .box-1 {
